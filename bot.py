@@ -74,4 +74,4 @@ async def on_message(message): #Checks messages for phrase and increases counter
             None
 
 
-client.run('ODgwMTczNzc5MzQ1NjA0Njg4.YSabtQ.nF-JbPnVKPxbLV5c6yN9yWN6630')
+client.run('')
